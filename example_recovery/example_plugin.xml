@@ -1,0 +1,7 @@
+<library path="lib/libexample_recovery">
+  <class name="example_recovery/ExampleRecovery" type="example_recovery::ExampleRecovery" base_class_type="nav_core::RecoveryBehavior">
+    <description>
+      An example of a recovery behavior plugin.
+    </description>
+  </class>
+</library>
